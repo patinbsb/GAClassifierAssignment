@@ -1,0 +1,7 @@
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\bin\Release\GAClassifierAssignment.exe.config
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\bin\Release\GAClassifierAssignment.exe
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\bin\Release\GAClassifierAssignment.pdb
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\obj\Release\GAClassifierAssignment.csprojAssemblyReference.cache
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\obj\Release\GAClassifierAssignment.csproj.CoreCompileInputs.cache
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\obj\Release\GAClassifierAssignment.exe
+C:\Users\patin_000\Dropbox\UWE\Year 3\Biocomputation\Practicals\GAClassifierAssignment\GAClassifierAssignment\obj\Release\GAClassifierAssignment.pdb
